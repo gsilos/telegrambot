@@ -1,0 +1,3 @@
+amanobot==1.6.0
+emojis==0.5.1
+pytz==2019.3
